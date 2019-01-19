@@ -1,0 +1,7 @@
+//if(isset($_SESSION['translation'])){
+			//$smg = "Search result found";
+			//style="background-color:#292931"
+			//<ul id="menu">
+//<A HREF ="pages/ChineseWords.php">Chinese Words To Use!</A>
+//<A HREF ="pages/Quizzes.php">Test Your Chinese!</A>
+//</ul>
